@@ -32,6 +32,7 @@
   "accountDetails.newsletter.error": "Etwas ist schief gelaufen. Aktualisiere die Seite und versuche es noch einmal.",
   "accountDetails.newsletter.heading": "Ja, ich möchte Marketing-E-Mails erhalten.",
   "accountDetails.newsletter.instruction": "Wähle aus, welche Game Splash-Newsletter du erhalten möchtest:",
+  "accountDetails.newsletter.label": "Newsletter-Einstellungen:",
   "accountDetails.newsletter.notSubscribed": "Nicht für Newsletter abonniert",
   "accountDetails.newsletter.privacy": "Wir respektieren Deine Privatsphäre und geben nie Informationen weiter oder verkaufen sie. Lies unsere <privacy>Datenschutzerklärung</privacy>.",
   "accountDetails.newsletter.success": "Deine Newsletter-Abonnements wurden aktualisiert.",

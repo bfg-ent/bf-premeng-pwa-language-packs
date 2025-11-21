@@ -32,6 +32,7 @@
   "accountDetails.newsletter.error": "Something went wrong. Please refresh and try again.",
   "accountDetails.newsletter.heading": "Yes, I’d like to receive marketing emails.",
   "accountDetails.newsletter.instruction": "Choose which Game Splash newsletters you'd like to receive:",
+  "accountDetails.newsletter.label": "Newsletter Preferences:",
   "accountDetails.newsletter.notSubscribed": "Not subscribed to any newsletters",
   "accountDetails.newsletter.privacy": "We respect your privacy and won't sell or share your information with other companies without your permission. Read our <privacy>Privacy Policy</privacy>.",
   "accountDetails.newsletter.success": "Your email preferences have been updated.",

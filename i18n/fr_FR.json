@@ -28,6 +28,7 @@
   "accountDetails.newsletter.error": "Une erreur s'est produite. Veuillez actualiser la page et réessayer.",
   "accountDetails.newsletter.heading": "Oui, j'aimerais recevoir des emails marketing.",
   "accountDetails.newsletter.instruction": "Choisissez les newsletters Game Splash que vous voulez recevoir :",
+  "accountDetails.newsletter.label": "Préférences de newsletter :",
   "accountDetails.newsletter.notSubscribed": "Abonné à aucune newsletter",
   "accountDetails.newsletter.privacy": "Nous respectons votre confidentialité et ne vendons ni partageons vos informations. Veuillez lire notre <privacy>Politique de confidentialité</privacy>.",
   "accountDetails.newsletter.success": "Vos abonnements aux lettres d'information ont été mis à jour.",
