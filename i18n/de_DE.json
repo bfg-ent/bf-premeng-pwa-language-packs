@@ -976,6 +976,7 @@
   "searchPage.filterButton": "Filter",
   "searchPage.noResult": "Keine Ergebnisse gefunden. Der Suchbegriff fehlt möglicherweise oder ist ungültig.",
   "searchPage.noResultImportant": "Keine Ergebnisse gefunden!",
+  "searchPage.pageTitle": "Suchergebnis für Begriff {searchTerm} | Big Fish Games",
   "searchPage.searchGames": "Spiele suchen",
   "searchPage.searchPlatformGames": "Suche nach {platform}-Spielen",
   "searchPage.searchTerm": "Ergebnisse für <highlight>{term}</highlight>{category, select, null {} other { in <highlight>{category}</highlight>}} anzeigen:",

@@ -972,6 +972,7 @@
   "searchPage.filterButton": "Filter",
   "searchPage.noResult": "No results found. The search term may be missing or invalid.",
   "searchPage.noResultImportant": "No results found!",
+  "searchPage.pageTitle": "Search Result for term {searchTerm} | Big Fish Games",
   "searchPage.searchGames": "Search Games",
   "searchPage.searchPlatformGames": "Search {platform} Games",
   "searchPage.searchTerm": "Showing results for <highlight>{term}</highlight>{category, select, null {} other { in <highlight>{category}</highlight>}}:",
