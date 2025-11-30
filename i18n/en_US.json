@@ -672,7 +672,7 @@
   "magentoRoute.routeError": "Looks like the page you were hoping to find doesn't exist. Sorry about that.",
   "miniCart.checkout": "CHECKOUT",
   "miniCart.clearCartButton": "Clear Cart",
-  "miniCart.editCartButton": "Edit Shopping Bag",
+  "miniCart.editCartButton": "Edit Cart",
   "miniCart.emptyMessage": "There are no items in your cart.",
   "miniCart.retryError": "Something went wrong. Please refresh the page and try again.",
   "miniCart.subtotal": "Subtotal:",
