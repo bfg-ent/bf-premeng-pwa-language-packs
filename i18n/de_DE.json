@@ -345,6 +345,8 @@
   "errorView.header": "Hoppla!",
   "errorView.message": "Sieht so aus, als wäre etwas schief gelaufen. Entschuldigung dafür.",
   "field.optional": "Optional",
+  "filter.label.no": "Nein",
+  "filter.label.yes": "Ja",
   "filterFooter.results": "Ergebnisse anzeigen",
   "filterList.showLess": "Weniger anzeigen",
   "filterList.showMore": "Mehr anzeigen",
