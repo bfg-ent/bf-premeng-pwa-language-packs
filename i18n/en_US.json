@@ -339,6 +339,8 @@
   "errorView.header": "Oops!",
   "errorView.message": "Looks like something went wrong. Sorry about that.",
   "field.optional": "Optional",
+  "filter.label.no": "No",
+  "filter.label.yes": "Yes",
   "filterFooter.results": "See Results",
   "filterList.showLess": "Show Less",
   "filterList.showMore": "Show More",
