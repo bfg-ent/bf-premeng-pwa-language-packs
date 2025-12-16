@@ -163,6 +163,8 @@
   "checkoutPage.continueInBrowserDescription": "Neue Benutzer müssen einen Webbrowser verwenden, um einen Kauf zu tätigen. Du wirst aufgefordert, dich über den Browser anzumelden.",
   "checkoutPage.continueShopping": "Weiter einkaufen",
   "checkoutPage.couponCode": "Promocode eingeben",
+  "checkoutPage.cvvInstructions": "Bitte geben Sie die Kartenprüfnummer ein, um den Kauf abzuschließen.",
+  "checkoutPage.cardVerification": "Kartenverifizierung",
   "checkoutPage.createAccount": "Konto erstellen",
   "checkoutPage.downloadMessage": "Klicken Sie hier, um zu Meine Spiele-Downloads zu gelangen, wo Sie Ihre Spiele herunterladen und aktivieren können. Wenn du zum ersten Mal ein Spiel von Big Fish herunterlädst, wird unsere praktische Game Manager auf deinem Computer installiert, um dich bei der Verwaltung deiner Spiele zu unterstützen.",
   "checkoutPage.edit": "Bearbeiten",

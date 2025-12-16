@@ -159,6 +159,8 @@
   "checkoutPage.continueInBrowserDescription": "New users will need to proceed in a web browser to make a purchase. You will be asked to sign in from the browser.",
   "checkoutPage.continueShopping": "Continue Shopping",
   "checkoutPage.couponCode": "Enter Promo Code",
+  "checkoutPage.cvvInstructions": "Please enter card verification details to complete purchase.",
+  "checkoutPage.cardVerification": "Card Verification",
   "checkoutPage.createAccount": "Create Account",
   "checkoutPage.downloadMessage": "Click to visit My Game Library where you can download and activate your games. If this is your first time downloading a game from Big Fish, our handy Game Manager will install on your computer to help manage your games.",
   "checkoutPage.edit": "Edit",
