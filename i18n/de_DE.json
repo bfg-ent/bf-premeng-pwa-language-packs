@@ -1015,6 +1015,8 @@
   "savedPaymentsPage.creditCard.errorRemoving": "Beim Abrufen deiner Kontoinformationen ist ein Problem aufgetreten. Bitte aktualisieren und erneut versuchen.",
   "savedPaymentsPage.creditCard.errorShowing": "Beim Abrufen dieser Zahlungsmethode ist ein Problem aufgetreten. Bitte aktualisieren und erneut versuchen.",
   "savedPaymentsPage.noSavedPayments": "Keine Zahlungsmethoden",
+  "savedPaymentsPage.gameClubSectionTitle": "Meine Game Club-Abonnement Zahlungsmethode",
+  "savedPaymentsPage.regularPaymentsSectionTitle": "Meine anderen Zahlungsmethoden",
   "savedPaymentsPage.subHeading": "Hier gespeicherte Kreditkarten stehen an der Kasse zur Verfügung.",
   "savedPaymentsPage.title": "Meine Zahlungsmethoden",
   "searchBar.heading": "Produktvorschläge",

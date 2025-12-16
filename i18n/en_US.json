@@ -1012,6 +1012,8 @@
   "savedPaymentsPage.creditCard.errorRemoving": "Something went wrong deleting this payment method. Please refresh and try again.",
   "savedPaymentsPage.creditCard.errorShowing": "Something went wrong fetching this payment method. Please refresh and try again.",
   "savedPaymentsPage.noSavedPayments": "You have no payment methods.",
+  "savedPaymentsPage.gameClubSectionTitle": "My Game Club Subscription Payment Method",
+  "savedPaymentsPage.regularPaymentsSectionTitle": "My Other Payment Methods",
   "savedPaymentsPage.title": "My Payment Methods",
   "searchBar.heading": "Product Suggestions",
   "searchBar.label": " in {label}",

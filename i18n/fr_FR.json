@@ -1011,6 +1011,8 @@
   "savedPaymentsPage.creditCard.errorRemoving": "Nous avons des difficultés à récupérer les informations de votre compte. Veuillez actualiser la page et réessayer.",
   "savedPaymentsPage.creditCard.errorShowing": "Un problème est survenu lors de la récupération de ce mode de paiement. Veuillez actualiser et réessayer.",
   "savedPaymentsPage.noSavedPayments": "Aucune méthode de paiement",
+  "savedPaymentsPage.gameClubSectionTitle": "Ma méthode de paiement abonnement Game Club",
+  "savedPaymentsPage.regularPaymentsSectionTitle": "Mes autres méthodes de paiement",
   "savedPaymentsPage.subHeading": "Les cartes de crédit enregistrées ici seront disponibles lors du paiement.",
   "savedPaymentsPage.title": "Mes méthodes de paiement",
   "searchBar.heading": "Suggestions de produits",
