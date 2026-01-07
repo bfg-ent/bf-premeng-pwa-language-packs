@@ -490,6 +490,7 @@
   "gameClub.memberSince": "Member Since",
   "gameClub.miniCart.pricingNew": "Free trial, then {price}/month",
   "gameClub.miniCart.pricingReactivate": "Only {price}/month",
+  "gameClub.miniCart.joinAndSave": "JOIN GAME CLUB - SAVE {savings}",
   "gameClub.processing": "Your Game Club membership is processing",
   "gameClub.reactivate.button": "Reactivate Membership",
   "gameClub.reactivate.errorMessage": "We're having trouble re-activating your account. Please refresh and try again.",

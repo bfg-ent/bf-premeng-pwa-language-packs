@@ -509,6 +509,7 @@
   "gameClub.memberSince": "Membre depuis le",
   "gameClub.miniCart.pricingNew": "Essai gratuit, puis {price}/mois",
   "gameClub.miniCart.pricingReactivate": "Seulement {price}/mois",
+  "gameClub.miniCart.joinAndSave": "REJOINDRE LE GAME CLUB - ÉCONOMISEZ {savings}",
   "gameClub.processing": "Votre abonnement au Game Club est en cours de traitement.",
   "gameClub.reactivate.button": "Réactiver l'abonnement",
   "gameClub.reactivate.errorMessage": "Nous avons des difficultés à réactiver votre compte. Veuillez actualiser la page et réessayer.",

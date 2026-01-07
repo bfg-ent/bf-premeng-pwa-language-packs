@@ -514,6 +514,7 @@
   "gameClub.memberSince": "Mitglied seit",
   "gameClub.miniCart.pricingNew": "Kostenlose Testversion, dann {price}/Monat",
   "gameClub.miniCart.pricingReactivate": "Nur {price}/Monat",
+  "gameClub.miniCart.joinAndSave": "GAME CLUB BEITRETEN - SPARE {savings}",
   "gameClub.processing": "Deine Game Club-Mitgliedschaft wird bearbeitet.",
   "gameClub.reactivate.button": "Mitgliedschaft fortsetzen",
   "gameClub.reactivate.errorMessage": "Dein Konto kann nicht reaktiviert werden. Bitte aktualisieren und erneut versuchen.",
