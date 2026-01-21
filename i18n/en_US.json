@@ -308,6 +308,7 @@
   "gameClub.details": "1-month trial. No commitment. Cancel any time.",
   "gameClub.detailsSubscribed": "Check out today's PREMIUM Game Club offerings!",
   "gameClub.exclusiveAccess.explanation": "Get Access to Games Before Their Worldwide Release!",
+  "gameClub.exclusiveAccess.explanationWithPrice": "Join Game Club to get this game for {price} before worldwide release!",
   "gameClub.exclusiveAccess.title": "Exclusive Access",
   "gameClub.exclusiveAccess.membersGetExclusiveAccess": "Game Club Members get <span>EXCLUSIVE ACCESS</span> to this game!",
   "gameClub.fetchingData": "Fetching data...",

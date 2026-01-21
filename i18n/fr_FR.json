@@ -325,6 +325,7 @@
   "gameClub.details": "Essai d'1 mois. Sans engagement. Annulez à tout moment.",
   "gameClub.detailsSubscribed": "Découvrez les offres PREMIUM du Game Club d'aujourd'hui !",
   "gameClub.exclusiveAccess.explanation": "Accédez aux jeux avant leur sortie mondiale !",
+  "gameClub.exclusiveAccess.explanationWithPrice": "Rejoignez le Game Club pour obtenir ce jeu à {price} avant sa sortie mondiale !",
   "gameClub.exclusiveAccess.title": "Accès exclusif",
   "gameClub.exclusiveAccess.membersGetExclusiveAccess": "Les membres Game Club obtiennent un <span>ACCÈS EXCLUSIF</span> à ce jeu !",
   "gameClub.fetchingData": "Récupération des données...",

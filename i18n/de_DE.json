@@ -326,6 +326,7 @@
   "gameClub.details": "1-Monat-Schnupperangebot. Keine Verpflichtung. Jederzeit kündbar.",
   "gameClub.detailsSubscribed": "Schau dir die heutigen PREMIUM Game Club-Angebote an!",
   "gameClub.exclusiveAccess.explanation": "Erhalte Zugriff auf Spiele, bevor sie weltweit veröffentlicht werden!",
+  "gameClub.exclusiveAccess.explanationWithPrice": "Tritt dem Game Club bei, um dieses Spiel für {price} vor der weltweiten Veröffentlichung zu erhalten!",
   "gameClub.exclusiveAccess.title": "Exklusiver Zugang",
   "gameClub.exclusiveAccess.membersGetExclusiveAccess": "Game Club-Mitglieder erhalten <span>EXKLUSIVEN ZUGRIFF</span> auf dieses Spiel!",
   "gameClub.fetchingData": "Daten werden abgerufen...",
