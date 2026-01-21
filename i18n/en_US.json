@@ -599,6 +599,7 @@
   "productButtons.download.crossPlatformQuestion": "Are you sure you want to download it?",
   "productButtons.buy.cta": "Buy the Full Version",
   "productButtons.buy.purchased": "You own this game",
+  "productButtons.addToCart": "Add to cart",
   "productButtons.discountMessage": "Some discounts may be applied in cart.",
   "productButtons.download.downloadFreeTrial": "Download free trial",
   "productButtons.download.mobileMessageMac": "Download the free trial on your Mac",

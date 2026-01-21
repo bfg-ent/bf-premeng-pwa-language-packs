@@ -603,6 +603,7 @@
   "productButtons.download.crossPlatformQuestion": "Voulez-vous vraiment le télécharger ?",
   "productButtons.buy.cta": "Acheter la version complète",
   "productButtons.buy.purchased": "Vous possédez déjà ce jeu",
+  "productButtons.addToCart": "Ajouter au panier",
   "productButtons.discountMessage": "Des réductions peuvent être appliquées au panier d'achat.",
   "productButtons.download.downloadFreeTrial": "Télécharger la version d'essai",
   "productButtons.download.mobileMessageMac": "Téléchargez l'essai gratuit sur votre Mac",
