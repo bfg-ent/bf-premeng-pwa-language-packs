@@ -349,6 +349,7 @@
   "gameClub.joinNowButton": "Rejoindre maintenant !",
   "gameClub.saveOnAllGames": "Économisez <highlight>30 à 90%</highlight> sur tous les jeux",
   "gameClub.memberData.member": "Membre",
+  "gameClub.memberData.pendingCancellation": "Annulé (actif jusqu'à la fin de la période de facturation)",
   "gameClub.membershipRenewal": "Renouvellement :",
   "gameClub.memberSince": "Membre depuis le",
   "gameClub.miniCart.pricingNew": "Essai gratuit d'1 mois, puis {price}/mois",

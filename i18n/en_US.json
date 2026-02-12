@@ -333,6 +333,7 @@
   "gameClub.joinNowButton": "Join Now!",
   "gameClub.saveOnAllGames": "Save <highlight>30-90%</highlight> on all games",
   "gameClub.memberData.member": "Member",
+  "gameClub.memberData.pendingCancellation": "Cancelled (active until billing period ends)",
   "gameClub.membershipRenewal": "Renewal:",
   "gameClub.memberSince": "Member Since",
   "gameClub.miniCart.pricingNew": "Free 1-month trial, then {price}/month",

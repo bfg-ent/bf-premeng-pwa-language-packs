@@ -350,6 +350,7 @@
   "gameClub.joinNowButton": "Jetzt beitreten!",
   "gameClub.saveOnAllGames": "Spare <highlight>30-90%</highlight> bei allen Spielen",
   "gameClub.memberData.member": "Mitglied",
+  "gameClub.memberData.pendingCancellation": "Gekündigt (aktiv bis zum Ende des Abrechnungszeitraums)",
   "gameClub.membershipRenewal": "Verlängerung:",
   "gameClub.memberSince": "Mitglied seit",
   "gameClub.miniCart.pricingNew": "Kostenloser Probemonat, dann {price}/Monat",
