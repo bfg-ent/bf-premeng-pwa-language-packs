@@ -119,6 +119,8 @@
   "checkoutPage.couponCode": "Entrer le code promo",
   "checkoutPage.cvvInstructions": "Veuillez entrer les informations de vérification de la carte pour finaliser l'achat.",
   "checkoutPage.cardVerification": "Vérification de la carte",
+  "checkoutPage.dailyDealUpsell.add": "Ajouter",
+  "checkoutPage.dailyDealUpsell.header": "Aujourd'hui seulement : {price} offre Game Club",
   "checkoutPage.downloadMessage": "Cliquez pour visiter Mes téléchargements de jeux où vous pouvez télécharger et activer vos jeux. Si vous téléchargez un jeu Big Fish pour la première fois, Game Manager sera installée sur votre ordinateur pour vous permettre de gérer vos jeux.",
   "checkoutPage.edit": "Modifier",
   "checkoutPage.editPaymentInformation": "Modifier les informations de paiement",

@@ -116,6 +116,8 @@
   "checkoutPage.couponCode": "Enter Promo Code",
   "checkoutPage.cvvInstructions": "Please enter card verification details to complete purchase.",
   "checkoutPage.cardVerification": "Card Verification",
+  "checkoutPage.dailyDealUpsell.add": "Add",
+  "checkoutPage.dailyDealUpsell.header": "Today only: {price} Game Club offer",
   "checkoutPage.downloadMessage": "Click to visit My Game Library where you can download and activate your games. If this is your first time downloading a game from Big Fish, our handy Game Manager will install on your computer to help manage your games.",
   "checkoutPage.edit": "Edit",
   "checkoutPage.editPaymentInformation": "Edit Payment Information",

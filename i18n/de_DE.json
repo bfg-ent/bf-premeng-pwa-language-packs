@@ -119,6 +119,8 @@
   "checkoutPage.couponCode": "Promocode eingeben",
   "checkoutPage.cvvInstructions": "Bitte geben Sie die Kartenprüfnummer ein, um den Kauf abzuschließen.",
   "checkoutPage.cardVerification": "Kartenverifizierung",
+  "checkoutPage.dailyDealUpsell.add": "Hinzufügen",
+  "checkoutPage.dailyDealUpsell.header": "Nur heute: {price} Game Club Angebot",
   "checkoutPage.downloadMessage": "Klicken Sie hier, um zu Meine Spiele-Downloads zu gelangen, wo Sie Ihre Spiele herunterladen und aktivieren können. Wenn du zum ersten Mal ein Spiel von Big Fish herunterlädst, wird unsere praktische Game Manager auf deinem Computer installiert, um dich bei der Verwaltung deiner Spiele zu unterstützen.",
   "checkoutPage.edit": "Bearbeiten",
   "checkoutPage.editPaymentInformation": "Zahlungsinformationen bearbeiten",
