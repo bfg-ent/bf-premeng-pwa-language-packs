@@ -855,5 +855,7 @@
   "wishlistPage.headingText": "Ma liste de souhaits",
   "wishlistPage.wishlistDisabledMessage": "La liste de souhaits n'est pas disponible actuellement.",
   "savedPaymentsPage.Message": "Vous avez {count} méthodes de paiement.",
-  "storedPayments.payPal": "PayPal"
+  "storedPayments.payPal": "PayPal",
+  "offerCountdown.endsInDays": "L'offre se termine dans {days} {days, plural, one {jour} other {jours}}",
+  "offerCountdown.endsInTime": "L'offre se termine dans {time}"
 }

@@ -855,5 +855,7 @@
   "addressBookPage.deleteAddress": "Delete",
   "addressBookPage.editAddress": "Edit",
   "checkoutPage.suggestSignInMessage": "The email you provided is associated with an existing Venia account. Would you like to sign into this account?",
-  "storedPayments.paypal": "PayPal"
+  "storedPayments.paypal": "PayPal",
+  "offerCountdown.endsInDays": "Offer ends in {days} {days, plural, one {day} other {days}}",
+  "offerCountdown.endsInTime": "Offer ends in {time}"
 }
