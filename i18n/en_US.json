@@ -736,6 +736,7 @@
   "reviews.form.successMessage": "You submitted your review for moderation.",
   "reviews.form.summary": "Title",
   "reviews.form.usernameBeforeReview": " before submitting a review.",
+  "reviews.form.verifiedBuyerOnly": "Only verified buyers are able to submit a product review.",
   "reviews.form.usernameRequired": "Only users with a username can write reviews. Please ",
   "reviews.form.usernameRequiredLink": "create a username",
   "reviews.helpful.question": "Was this review helpful?",

@@ -740,6 +740,7 @@
   "reviews.form.successMessage": "Sie haben Ihre Bewertung zur Moderation eingereicht.",
   "reviews.form.summary": "Titel",
   "reviews.form.usernameBeforeReview": " bevor Sie eine Bewertung abgeben.",
+  "reviews.form.verifiedBuyerOnly": "Nur verifizierte Kunden können eine Produktbewertung abgeben.",
   "reviews.form.usernameRequired": "Nur Benutzer mit einem Benutzernamen können Bewertungen schreiben. Bitte ",
   "reviews.form.usernameRequiredLink": "erstellen Sie einen Benutzernamen",
   "reviews.helpful.question": "War diese Bewertung hilfreich?",

@@ -740,6 +740,7 @@
   "reviews.form.successMessage": "Vous avez soumis votre avis pour modération.",
   "reviews.form.summary": "Titre",
   "reviews.form.usernameBeforeReview": " avant de soumettre un avis.",
+  "reviews.form.verifiedBuyerOnly": "Seuls les acheteurs vérifiés peuvent soumettre un avis sur un produit.",
   "reviews.form.usernameRequired": "Seuls les utilisateurs avec un nom d'utilisateur peuvent écrire des avis. Veuillez ",
   "reviews.form.usernameRequiredLink": "créer un nom d'utilisateur",
   "reviews.helpful.question": "Cet avis vous a-t-il été utile ?",
